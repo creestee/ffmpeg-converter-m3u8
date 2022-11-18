@@ -1,0 +1,1 @@
+https://playlist.servicecdn.ru/player/68ce711f614af86ffe7c66c76502f458/f68fcd18a056a405cc4d1d7975106808/master.m3u8?user-cdn=gcore&acc-id=0&user-id=211772068&loc-mode=ru&version=5%3A2%3A1%3A0%3A2%3Agcore&consumer=vod&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyLWlkIjoyMTE3NzIwNjgsImNvbnN1bWVyIjoidm9kIn0.rCwZuTkykNoUydmM787Rwm4EPCT7gXRSWdP9n1Ot1GE&gzipoff=1
